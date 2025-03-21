@@ -1,3 +1,4 @@
+Original: https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/post-pve-install.sh
 ```
 bash -c "$(wget -qLO - https://github.com/leks0d/pve-postinstall/blob/main/pve-postinstall.sh)"
 ```
